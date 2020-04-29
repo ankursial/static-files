@@ -1,0 +1,15 @@
+{
+  "outer key": "outer value",
+  "nested keys": {
+    "inner key 1": "inner value 1",
+    "inner key 2": "inner value 2"
+  },
+  "array": [
+    {
+      "nested array key 1": "nested array value 1"
+    },
+    {
+      "nested array key 2": "nested array value 2"
+    }
+  ]
+}
