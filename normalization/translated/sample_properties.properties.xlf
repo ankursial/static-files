@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="sample_properties.properties" source-language="en-US" target-language="en-XX" datatype="x-text/x-properties">
+<body>
+<trans-unit id="1" resname="server.port" xml:space="preserve">
+<source xml:lang="en-US">8081</source>
+<target xml:lang="en-XX">zz_8081_ZZ</target>
+<note> This is a comment</note>
+</trans-unit>
+<trans-unit id="2" resname="management.endpoints.web.base-path" xml:space="preserve">
+<source xml:lang="en-US">/</source>
+<target xml:lang="en-XX">zz_/_ZZ</target>
+</trans-unit>
+<trans-unit id="3" resname="some.string" xml:space="preserve">
+<source xml:lang="en-US">This is some string</source>
+<target xml:lang="en-XX">zz_This is some string_ZZ</target>
+<note>This is another comment</note>
+</trans-unit>
+<trans-unit id="4" resname="some.string.with.quote" xml:space="preserve">
+<source xml:lang="en-US">"This is some string with quote"</source>
+<target xml:lang="en-XX">zz_"This is some string with quote"_ZZ</target>
+</trans-unit>
+<trans-unit id="5" resname="empty.key.with.equal" xml:space="preserve">
+<source xml:lang="en-US"></source>
+<target xml:lang="en-XX"></target>
+</trans-unit>
+<trans-unit id="6" resname="empty.key" xml:space="preserve">
+<source xml:lang="en-US"></source>
+<target xml:lang="en-XX"></target>
+</trans-unit>
+</body>
+</file>
+</xliff>

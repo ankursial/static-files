@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="sample_md.md" source-language="en-US" target-language="en-XX" datatype="x-text/x-markdown">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="en-US">Hello World</source>
+<target xml:lang="en-XX">zz_Hello World_ZZ</target>
+</trans-unit>
+<trans-unit id="tu2" xml:space="preserve">
+<source xml:lang="en-US">This is content converted from Markdown!</source>
+<target xml:lang="en-XX">zz_This is content converted from Markdown!_ZZ</target>
+</trans-unit>
+<trans-unit id="tu3" xml:space="preserve">
+<source xml:lang="en-US">Here's a JSON sample:</source>
+<target xml:lang="en-XX">zz_Here's a JSON sample:_ZZ</target>
+</trans-unit>
+<trans-unit id="tu4" xml:space="preserve">
+<source xml:lang="en-US">{
+  "foo": "bar"
+}
+</source>
+<target xml:lang="en-XX">zz_{
+  "foo": "bar"
+}
+_ZZ</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<doc>
+ <msg id="m1">zz_Text in_ZZ<b>zz_bold_ZZ</b>zz_._ZZ</msg>
+ <msg id="m1">zz_Text in_ZZ<i>zz_italic_ZZ</i>zz_._ZZ</msg>
+ <msg id="m1"><u>zz_Underline_ZZ</u>zz_text._ZZ</msg>
+</doc>

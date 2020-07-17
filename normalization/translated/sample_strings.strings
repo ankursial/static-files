@@ -1,0 +1,21 @@
+
+/*Please don't change the name of the application*/
+"app.name" = "zz_TODO List_ZZ";
+
+/*Fuzzy*/
+"app.login.text" = "zz_Enter your credentials below to login_ZZ";
+"app.login.message.success" = "zz_Login successful !\nWelcome back %s !_ZZ";
+"app.login.message.error" = "zz_Make sure you've entered the correct username and password_ZZ";
+"app.login.password.forget" = "zz_I forgot my password_ZZ";
+"app.login.password.reset" = "zz_Enter your address in the field below. A new password will be sent to your inbox._ZZ";
+"app.register.text" = "zz_Sign up for free! No credit card required!_ZZ";
+"app.register.message.success" = "zz_Thank you for signing up !\nPlease check your email address to activate your account._ZZ";
+"app.register.message.error" = "zz_We were unable to sign you up.\nPlease correct the marked fields._ZZ";
+"app.menu.terms" = "zz_Terms and conditions_ZZ";
+
+/*form_label*/
+"app.login.text" = "zz_Username_ZZ";
+"app.users.active" = "zz_Just one user online_ZZ";
+
+/*form_label*/
+"app.login.pass" = "zz_Password_ZZ";

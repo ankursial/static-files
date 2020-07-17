@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="sample_strings.strings" source-language="en-US" target-language="en-XX" datatype="x-text/plain">
+<body>
+<trans-unit id="1" resname="app.name" xml:space="preserve">
+<source xml:lang="en-US">TODO List</source>
+<target xml:lang="en-XX">zz_TODO List_ZZ</target>
+<note>Please don't change the name of the application</note>
+</trans-unit>
+<trans-unit id="2" resname="app.login.text" xml:space="preserve">
+<source xml:lang="en-US">Enter your credentials below to login</source>
+<target xml:lang="en-XX">zz_Enter your credentials below to login_ZZ</target>
+<note>Fuzzy</note>
+</trans-unit>
+<trans-unit id="3" resname="app.login.message.success" xml:space="preserve">
+<source xml:lang="en-US">Login successful !<x id="1"/>Welcome back <x id="2"/> !</source>
+<target xml:lang="en-XX">zz_Login successful !<x id="1"/>Welcome back <x id="2"/> !_ZZ</target>
+</trans-unit>
+<trans-unit id="4" resname="app.login.message.error" xml:space="preserve">
+<source xml:lang="en-US">Make sure you've entered the correct username and password</source>
+<target xml:lang="en-XX">zz_Make sure you've entered the correct username and password_ZZ</target>
+</trans-unit>
+<trans-unit id="5" resname="app.login.password.forget" xml:space="preserve">
+<source xml:lang="en-US">I forgot my password</source>
+<target xml:lang="en-XX">zz_I forgot my password_ZZ</target>
+</trans-unit>
+<trans-unit id="6" resname="app.login.password.reset" xml:space="preserve">
+<source xml:lang="en-US">Enter your address in the field below. A new password will be sent to your inbox.</source>
+<target xml:lang="en-XX">zz_Enter your address in the field below. A new password will be sent to your inbox._ZZ</target>
+</trans-unit>
+<trans-unit id="7" resname="app.register.text" xml:space="preserve">
+<source xml:lang="en-US">Sign up for free! No credit card required!</source>
+<target xml:lang="en-XX">zz_Sign up for free! No credit card required!_ZZ</target>
+</trans-unit>
+<trans-unit id="8" resname="app.register.message.success" xml:space="preserve">
+<source xml:lang="en-US">Thank you for signing up !<x id="1"/>Please check your email address to activate your account.</source>
+<target xml:lang="en-XX">zz_Thank you for signing up !<x id="1"/>Please check your email address to activate your account._ZZ</target>
+</trans-unit>
+<trans-unit id="9" resname="app.register.message.error" xml:space="preserve">
+<source xml:lang="en-US">We were unable to sign you up.<x id="1"/>Please correct the marked fields.</source>
+<target xml:lang="en-XX">zz_We were unable to sign you up.<x id="1"/>Please correct the marked fields._ZZ</target>
+</trans-unit>
+<trans-unit id="10" resname="app.menu.terms" xml:space="preserve">
+<source xml:lang="en-US">Terms and conditions</source>
+<target xml:lang="en-XX">zz_Terms and conditions_ZZ</target>
+</trans-unit>
+<trans-unit id="11" resname="app.login.text" xml:space="preserve">
+<source xml:lang="en-US">Username</source>
+<target xml:lang="en-XX">zz_Username_ZZ</target>
+<note>form_label</note>
+</trans-unit>
+<trans-unit id="12" resname="app.users.active" xml:space="preserve">
+<source xml:lang="en-US">Just one user online</source>
+<target xml:lang="en-XX">zz_Just one user online_ZZ</target>
+</trans-unit>
+<trans-unit id="13" resname="app.login.pass" xml:space="preserve">
+<source xml:lang="en-US">Password</source>
+<target xml:lang="en-XX">zz_Password_ZZ</target>
+<note>form_label</note>
+</trans-unit>
+</body>
+</file>
+</xliff>

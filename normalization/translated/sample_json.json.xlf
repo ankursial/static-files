@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="sample_json.json" source-language="en-US" target-language="en-XX" datatype="x-application/json">
+<body>
+<group id="sg1">
+<trans-unit id="tu1" resname="outer key" xml:space="preserve">
+<source xml:lang="en-US">outer value</source>
+<target xml:lang="en-XX">zz_outer value_ZZ</target>
+</trans-unit>
+<group id="sg2">
+<trans-unit id="tu2" resname="inner key 1" xml:space="preserve">
+<source xml:lang="en-US">inner value 1</source>
+<target xml:lang="en-XX">zz_inner value 1_ZZ</target>
+</trans-unit>
+<trans-unit id="tu3" resname="inner key 2" xml:space="preserve">
+<source xml:lang="en-US">inner value 2</source>
+<target xml:lang="en-XX">zz_inner value 2_ZZ</target>
+</trans-unit>
+</group>
+<group id="sg3">
+<group id="sg4">
+<trans-unit id="tu4" resname="nested array key 1" xml:space="preserve">
+<source xml:lang="en-US">nested array value 1</source>
+<target xml:lang="en-XX">zz_nested array value 1_ZZ</target>
+</trans-unit>
+</group>
+<group id="sg5">
+<trans-unit id="tu5" resname="nested array key 2" xml:space="preserve">
+<source xml:lang="en-US">nested array value 2</source>
+<target xml:lang="en-XX">zz_nested array value 2_ZZ</target>
+</trans-unit>
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="sample_html.html" source-language="en-US" target-language="en-XX" datatype="html">
+<body>
+<trans-unit id="tu1" restype="x-title">
+<source xml:lang="en-US">Steps - Raw Document to Filter Events</source>
+<target xml:lang="en-XX">zz_Steps - Raw Document to Filter Events_ZZ</target>
+</trans-unit>
+<trans-unit id="tu2" restype="x-td">
+<source xml:lang="en-US"></source>
+<target xml:lang="en-XX"></target>
+</trans-unit>
+<trans-unit id="tu3" restype="x-h1">
+<source xml:lang="en-US">Okapi Framework - Steps</source>
+<target xml:lang="en-XX">zz_Okapi Framework - Steps_ZZ</target>
+</trans-unit>
+<trans-unit id="tu4" restype="x-h2">
+<source xml:lang="en-US">Raw Document to Filter Events Step</source>
+<target xml:lang="en-XX">zz_Raw Document to Filter Events Step_ZZ</target>
+</trans-unit>
+<trans-unit id="tu5" restype="x-td">
+<source xml:lang="en-US"></source>
+<target xml:lang="en-XX"></target>
+</trans-unit>
+<trans-unit id="tu6" restype="x-paragraph">
+<source xml:lang="en-US">- <g id="1">Overview</g><x id="2"/> - <g id="3">Parameters</g></source>
+<target xml:lang="en-XX">zz_- <g id="1">Overview</g><x id="2"/> - <g id="3">Parameters</g>_ZZ</target>
+</trans-unit>
+<trans-unit id="tu7" restype="x-td">
+<source xml:lang="en-US"></source>
+<target xml:lang="en-XX"></target>
+</trans-unit>
+<trans-unit id="tu8" restype="x-td">
+<source xml:lang="en-US"><g id="1">Steps</g></source>
+<target xml:lang="en-XX">zz_<g id="1">Steps</g>_ZZ</target>
+</trans-unit>
+<trans-unit id="tu9" restype="x-td">
+<source xml:lang="en-US"><g id="1">Developer's Guide</g></source>
+<target xml:lang="en-XX">zz_<g id="1">Developer's Guide</g>_ZZ</target>
+</trans-unit>
+<trans-unit id="tu10" restype="x-td">
+<source xml:lang="en-US"><g id="1">Okapi Framework</g></source>
+<target xml:lang="en-XX">zz_<g id="1">Okapi Framework</g>_ZZ</target>
+</trans-unit>
+<trans-unit id="tu11" restype="x-paragraph">
+<source xml:lang="en-US">If you are using an Okapi Tool after the M9 release, you should be using the wiki online help:<x id="1"/> <g id="2">http://www.opentag.com/okapi/wiki/index.php?title=Raw_Document_to_Filter_Events_Step</g></source>
+<target xml:lang="en-XX">zz_If you are using an Okapi Tool after the M9 release, you should be using the wiki online help:<x id="1"/> <g id="2">http://www.opentag.com/okapi/wiki/index.php?title=Raw_Document_to_Filter_Events_Step</g>_ZZ</target>
+</trans-unit>
+<trans-unit id="tu12" restype="x-h2">
+<source xml:lang="en-US"><g id="1"></g>Overview</source>
+<target xml:lang="en-XX">zz_<g id="1"></g>Overview_ZZ</target>
+</trans-unit>
+<trans-unit id="tu13" restype="x-paragraph">
+<source xml:lang="en-US">This step extracts the content of a raw document into a set of filter events.</source>
+<target xml:lang="en-XX">zz_This step extracts the content of a raw document into a set of filter events._ZZ</target>
+</trans-unit>
+<trans-unit id="tu14" restype="x-paragraph">
+<source xml:lang="en-US">Takes: Raw document<x id="1"/> Sends: Filter events</source>
+<target xml:lang="en-XX">zz_Takes: Raw document<x id="1"/> Sends: Filter events_ZZ</target>
+</trans-unit>
+<trans-unit id="tu15" restype="x-paragraph">
+<source xml:lang="en-US">This step is used to take a raw document with an associated filter configuration and send the filter events down the pipeline. It basically extract the content and structure information of the input so steps that take filter events as input can be used. This step is generally the first one of the pipeline, but it can be placed after any step that sends a raw document.</source>
+<target xml:lang="en-XX">zz_This step is used to take a raw document with an associated filter configuration and send the filter events down the pipeline. It basically extract the content and structure information of the input so steps that take filter events as input can be used. This step is generally the first one of the pipeline, but it can be placed after any step that sends a raw document._ZZ</target>
+</trans-unit>
+<trans-unit id="tu16" restype="x-paragraph">
+<source xml:lang="en-US">To merge back filter events into a raw document use the <g id="1"> <g id="2">Filter Events to Raw Document</g></g> step.</source>
+<target xml:lang="en-XX">zz_To merge back filter events into a raw document use the <g id="1"> <g id="2">Filter Events to Raw Document</g></g> step._ZZ</target>
+</trans-unit>
+<trans-unit id="tu17" restype="x-h2">
+<source xml:lang="en-US"><g id="1"></g>Parameters</source>
+<target xml:lang="en-XX">zz_<g id="1"></g>Parameters_ZZ</target>
+</trans-unit>
+<trans-unit id="tu18" restype="x-paragraph">
+<source xml:lang="en-US">This step has no user parameters. All the parameters are provided by the calling application.</source>
+<target xml:lang="en-XX">zz_This step has no user parameters. All the parameters are provided by the calling application._ZZ</target>
+</trans-unit>
+<trans-unit id="tu19" restype="x-paragraph">
+<source xml:lang="en-US"> </source>
+<target xml:lang="en-XX">zz_ _ZZ</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

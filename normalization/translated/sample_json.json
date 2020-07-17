@@ -1,0 +1,15 @@
+{
+  "outer key": "zz_outer value_ZZ",
+  "nested keys": {
+    "inner key 1": "zz_inner value 1_ZZ",
+    "inner key 2": "zz_inner value 2_ZZ"
+  },
+  "array": [
+    {
+      "nested array key 1": "zz_nested array value 1_ZZ"
+    },
+    {
+      "nested array key 2": "zz_nested array value 2_ZZ"
+    }
+  ]
+}

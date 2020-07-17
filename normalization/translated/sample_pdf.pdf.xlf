@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="sample_pdf.pdf" source-language="en-US" target-language="en-XX" datatype="x-text/plain">
+<body>
+<trans-unit id="1">
+<source xml:lang="en-US">Heading This is a sample string. This is a sample paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sample paragraph ends.</source>
+<target xml:lang="en-XX">zz_Heading This is a sample string. This is a sample paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sample paragraph ends._ZZ</target>
+</trans-unit>
+<trans-unit id="2">
+<source xml:lang="en-US">1. Sample bullet 1 2. Sample Bullet 2</source>
+<target xml:lang="en-XX">zz_1. Sample bullet 1 2. Sample Bullet 2_ZZ</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

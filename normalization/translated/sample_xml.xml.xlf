@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="sample_xml.xml" source-language="en-US" target-language="en-XX" datatype="xml">
+<body>
+<trans-unit id="tu1" resname="m1-id">
+<source xml:lang="en-US">Text in</source>
+<target xml:lang="en-XX">zz_Text in_ZZ</target>
+</trans-unit>
+<trans-unit id="tu2">
+<source xml:lang="en-US">bold</source>
+<target xml:lang="en-XX">zz_bold_ZZ</target>
+</trans-unit>
+<trans-unit id="tu3">
+<source xml:lang="en-US">.</source>
+<target xml:lang="en-XX">zz_._ZZ</target>
+</trans-unit>
+<trans-unit id="tu4" resname="m1-id">
+<source xml:lang="en-US">Text in</source>
+<target xml:lang="en-XX">zz_Text in_ZZ</target>
+</trans-unit>
+<trans-unit id="tu5">
+<source xml:lang="en-US">italic</source>
+<target xml:lang="en-XX">zz_italic_ZZ</target>
+</trans-unit>
+<trans-unit id="tu6">
+<source xml:lang="en-US">.</source>
+<target xml:lang="en-XX">zz_._ZZ</target>
+</trans-unit>
+<trans-unit id="tu7">
+<source xml:lang="en-US">Underline</source>
+<target xml:lang="en-XX">zz_Underline_ZZ</target>
+</trans-unit>
+<trans-unit id="tu8">
+<source xml:lang="en-US">text.</source>
+<target xml:lang="en-XX">zz_text._ZZ</target>
+</trans-unit>
+</body>
+</file>
+</xliff>
